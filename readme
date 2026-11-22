@@ -1,0 +1,79 @@
+# 📦 Inventory Management and Demand Analysis Dashboard
+
+## Project Overview
+
+The Inventory Management Dashboard is a data analytics project developed using **Microsoft Power BI**. The project focuses on analyzing inventory levels, warehouse stock value, product classification, stock status, reorder requirements, and weekly demand.
+
+The dashboard provides insights into inventory performance and helps support better stock management and demand planning.
+
+## Project Objectives
+
+- Analyze inventory levels and warehouse stock value.
+- Classify products using ABC and XYZ analysis.
+- Monitor stock availability and stock status.
+- Identify products that need to be reordered.
+- Analyze reorder points and safety stock.
+- Track weekly sales and demand trends.
+- Visualize future demand using forecasting.
+
+## Tools & Technologies
+
+- Microsoft Power BI
+- Inventory Dataset
+
+## Dataset Description
+
+The dashboard uses two main tables:
+
+| Table | Description |
+|---|---|
+| Stock | Product details, stock quantity, warehouse value, annual revenue, lead time, reorder point, safety stock, and stock status |
+| Weekly Demand Sheet | Weekly dates, sales amounts, and demand information |
+
+## Dashboard Features
+
+### 1. Inventory Classification and Analysis
+
+**Charts and Visualizations:**
+- ABC Analysis
+- ABC and XYZ Classification by Annual Revenue
+- ABC and XYZ Classification by Warehouse Value
+- Inventory Turnover Ratio
+
+### 2. Stock Monitoring and Reorder Planning
+
+**Charts and Visualizations:**
+- Inventory Summary Cards
+- Stock Details Table
+- SKUs to Reorder
+- Stock Status Donut Chart
+
+### 3. Weekly Demand Forecasting
+
+**Charts and Visualizations:**
+- Weekly Sales Amount Forecast
+- Weekly Demand Forecast
+
+The forecasting visuals display historical trends, estimated future values, and confidence intervals.
+
+## Key Business Benefits
+
+- Helps monitor inventory levels and stock status.
+- Supports ABC and XYZ product classification.
+- Identifies products requiring replenishment.
+- Provides visibility into warehouse inventory value.
+- Supports safety stock and reorder planning.
+- Helps understand weekly demand patterns.
+- Supports inventory planning through demand forecasting.
+
+## Project Limitations
+
+- Forecast values are estimates based on historical data and may differ from actual future demand.
+- Inventory decisions should also consider supplier lead times and changes in market demand.
+- Actual purchasing and replenishment decisions require business validation.
+
+## Conclusion
+
+This project demonstrates how Microsoft Power BI can be used to analyze inventory data and present meaningful business insights. It combines inventory classification, stock monitoring, reorder analysis, warehouse value, and demand forecasting in one dashboard.
+
+The dashboard supports better inventory management and helps businesses make informed decisions about stock availability and replenishment.
